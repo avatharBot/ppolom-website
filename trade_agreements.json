@@ -1,0 +1,71 @@
+{
+    "TLCAN": [
+        "USA",
+        "CAN"
+    ],
+    "COLOMBIA": [
+        "COL"
+    ],
+    "UE": [
+        "DEU",
+        "AUT",
+        "BEL",
+        "BGR",
+        "CYP",
+        "HRV",
+        "DNK",
+        "SVK",
+        "SVN",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "GBR",
+        "CZE",
+        "ROU",
+        "SWE"
+    ],
+    "CHILE": [
+        "CHL"
+    ],
+    "ISRAEL": [
+        "ISR"
+    ],
+    "AELC": [
+        "NOR",
+        "CHE",
+        "ISL",
+        "LIE"
+    ],
+    "URUGUAY": [
+        "URY"
+    ],
+    "JAPÓN": [
+        "JPN"
+    ],
+    "ACE 66": [
+        "BOL"
+    ],
+    "PERÚ": [
+        "PER"
+    ],
+    "CENTRO AMÉRICA": [
+        "GTM",
+        "HND",
+        "SLV",
+        "CRI",
+        "NIC"
+    ]
+}
+

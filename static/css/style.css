@@ -1,0 +1,54 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans';
+    font-size: 1em;
+}
+
+.wrapper{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f6f6f6;
+}
+
+header{
+    position: relative;
+    top: 0;
+    min-height: 250px;
+    font-family: 'Lora';
+    background-image: url('../img/bg.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.header-text{
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    padding-left: 50px;
+    line-height: 50px;
+    font-size: 1.5em;
+    bottom: 0;
+    background-color: white;
+}
+
+
+form{
+    margin: 0 50px;
+}
+
+footer{
+    border-top: solid black 1px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    min-height: 80px;
+    background-color: white;
+    color: teal;
+    font-family: 'Lora';
+    text-align: center;
+    line-height: 80px;
+}

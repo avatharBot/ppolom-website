@@ -1,0 +1,442 @@
+[{
+    "id": "AFG",
+    "country": "Afghanistan",
+    "distance": 13923
+}, {
+    "id": "ALB",
+    "country": "Albania",
+    "distance": 10800
+}, {
+    "id": "AND",
+    "country": "Andorra",
+    "distance": 9383
+}, {
+    "id": "ARG",
+    "country": "Argentina",
+    "distance": 7341
+}, {
+    "id": "ARM",
+    "country": "Armenia",
+    "distance": 12393
+}, {
+    "id": "AUS",
+    "country": "Australia",
+    "distance": 10150
+},  {
+    "id": "AUT",
+    "country": "Austria",
+    "distance": 10143
+}, {
+    "id": "AZE",
+    "country": "Azerbaijan",
+    "distance": 12647
+}, {
+    "id": "BEL",
+    "country": "Belgium",
+    "distance": 9269
+}, {
+    "id": "BEN",
+    "country": "Benin",
+    "distance": 11005
+}, {
+    "id": "BGR",
+    "country": "Bulgaria",
+    "distance": 10961
+}, {
+    "id": "BLR",
+    "country": "Belarus",
+    "distance": 10464
+}, {
+    "id": "BLZ",
+    "country": "Belize",
+    "distance": 1178
+}, {
+    "id": "BOL",
+    "country": "Bolivia",
+    "distance": 5215
+}, {
+    "id": "BRA",
+    "country": "Brazil",
+    "distance": 6816
+}, {
+    "id": "CAN",
+    "country": "Canada",
+    "distance": 3591
+}, {
+    "id": "CHL",
+    "country": "Chile",
+    "distance": 6577
+}, {
+    "id": "CHN",
+    "country": "China",
+    "distance": 12518
+}, {
+    "id": "COL",
+    "country": "Colombia",
+    "distance": 3169
+}, {
+    "id": "COM",
+    "country": "Comoros",
+    "distance": 15884
+}, {
+    "id": "CUB",
+    "country": "Cuba",
+    "distance": 1788
+}, {
+    "id": "CYP",
+    "country": "Cyprus",
+    "distance": 12143
+}, {
+    "id": "CZE",
+    "country": "Czech Republic",
+    "distance": 9921
+}, {
+    "id": "DEU",
+    "country": "Germany",
+    "distance": 9709
+}, {
+    "id": "DJI",
+    "country": "Djibouti",
+    "distance": 14616
+}, {
+    "id": "DMA",
+    "country": "Dominica",
+    "distance": 4077
+}, {
+    "id": "DOM",
+    "country": "Dominican Republic",
+    "distance": 3063
+}, {
+    "id": "ECU",
+    "country": "Ecuador",
+    "distance": 3122
+}, {
+    "id": "EGY",
+    "country": "Egypt",
+    "distance": 12368
+}, {
+    "id": "ERI",
+    "country": "Eritrea",
+    "distance": 14005
+}, {
+    "id": "EST",
+    "country": "Estonia",
+    "distance": 9897
+}, {
+    "id": "ETH",
+    "country": "Ethiopia",
+    "distance": 14405
+}, {
+    "id": "FIN",
+    "country": "Finland",
+    "distance": 9838
+}, {
+    "id": "FJI",
+    "country": "Fiji",
+    "distance": 9897
+}, {
+    "id": "FSM",
+    "country": "Micronesia",
+    "distance": 11048
+}, {
+    "id": "GAB",
+    "country": "Gabon",
+    "distance": 11951
+}, {
+    "id": "GHA",
+    "country": "Ghana",
+    "distance": 10786
+}, {
+    "id": "GNB",
+    "country": "Guinea - Bissau",
+    "distance": 8921
+}, {
+    "id": "GRC",
+    "country": "Greece",
+    "distance": 11265
+}, {
+    "id": "GUY",
+    "country": "Guyana",
+    "distance": 4646
+}, {
+    "id": "HRV",
+    "country": "Croatia",
+    "distance": 10282
+}, {
+    "id": "HUN",
+    "country": "Hungary",
+    "distance": 10387
+}, {
+    "id": "IND",
+    "country": "India",
+    "distance": 14703
+}, {
+    "id": "IRN",
+    "country": "Iran",
+    "distance": 13193
+}, {
+    "id": "IRQ",
+    "country": "Iraq",
+    "distance": 12998
+}, {
+    "id": "ISR",
+    "country": "Israel",
+    "distance": 12472
+}, {
+    "id": "ITA",
+    "country": "Italy",
+    "distance": 10287
+}, {
+    "id": "JAM",
+    "country": "Jamaica",
+    "distance": 2354
+}, {
+    "id": "JOR",
+    "country": "Jordan",
+    "distance": 12621
+}, {
+    "id": "JPN",
+    "country": "Japan",
+    "distance": 11320
+}, {
+    "id": "KEN",
+    "country": "Kenya",
+    "distance": 14797
+}, {
+    "id": "KOR",
+    "country": "Korea",
+    "distance": 12073
+}, {
+    "id": "LAO",
+    "country": "Lao People's Democratic Republic",
+    "distance": 15288
+}, {
+    "id": "LBR",
+    "country": "Liberia",
+    "distance": 9604
+}, {
+    "id": "LIE",
+    "country": "Liechtenstein",
+    "distance": 9751
+}, {
+    "id": "LUX",
+    "country": "Luxembourg",
+    "distance": 9404
+}, {
+    "id": "MAC",
+    "country": "Macao",
+    "distance": 10857
+}, {
+    "id": "MLI",
+    "country": "Mali",
+    "distance": 9676
+}, {
+    "id": "MLT",
+    "country": "Malta",
+    "distance": 10718
+}, {
+    "id": "MNG",
+    "country": "Mongolia",
+    "distance": 10678
+}, {
+    "id": "NAM",
+    "country": "Namibia",
+    "distance": 13429
+}, {
+    "id": "NIC",
+    "country": "Nicaragua",
+    "distance": 1595
+}, {
+    "id": "NOR",
+    "country": "Norway",
+    "distance": 9221
+}, {
+    "id": "PAK",
+    "country": "Pakistan",
+    "distance": 14098
+}, {
+    "id": "PAN",
+    "country": "Panama",
+    "distance": 2415
+}, {
+    "id": "PER",
+    "country": "Peru",
+    "distance": 4261
+}, {
+    "id": "PNG",
+    "country": "Papua New Guinea",
+    "distance": 12787
+}, {
+    "id": "POL",
+    "country": "Poland",
+    "distance": 10190
+}, {
+    "id": "PRK",
+    "country": "Korea",
+    "distance": 11994
+}, {
+    "id": "QAT",
+    "country": "Qatar",
+    "distance": 14068
+}, {
+    "id": "RUS",
+    "country": "Russian Federation",
+    "distance": 10766
+}, {
+    "id": "RWA",
+    "country": "Rwanda",
+    "distance": 14129
+}, {
+    "id": "SAU",
+    "country": "Saudi Arabia",
+    "distance": 13922
+}, {
+    "id": "SEN",
+    "country": "Senegal",
+    "distance": 8630
+}, {
+    "id": "SLV",
+    "country": "El Salvador",
+    "distance": 10146
+}, {
+    "id": "SOM",
+    "country": "Somalia",
+    "distance": 15451
+}, {
+    "id": "STP",
+    "country": "Sao Tome and Principe",
+    "distance": 11653
+}, {
+    "id": "SUR",
+    "country": "Suriname",
+    "distance": 4986
+}, {
+    "id": "SWZ",
+    "country": "Swaziland",
+    "distance": 9652
+}, {
+    "id": "SYR",
+    "country": "Syrian Arab Republic",
+    "distance": 12493
+}, {
+    "id": "TKM",
+    "country": "Turkmenistan",
+    "distance": 13286
+}, {
+    "id": "TUN",
+    "country": "Tunisia",
+    "distance": 10355
+}, {
+    "id": "TUR",
+    "country": "Turkey",
+    "distance": 11801
+}, {
+    "id": "UGA",
+    "country": "Uganda",
+    "distance": 14312
+}, {
+    "id": "UKR",
+    "country": "Ukraine",
+    "distance": 10834
+}, {
+    "id": "USA",
+    "country": "United States",
+    "distance": 3024
+}, {
+    "id": "UZB",
+    "country": "Uzbekistan",
+    "distance": 13172
+}, {
+    "id": "VEN",
+    "country": "Venezuela",
+    "distance": 3605
+}, {
+    "id": "VNM",
+    "country": "Viet Nam",
+    "distance": 15607
+}, {
+    "id": "WSM",
+    "country": "Samoa",
+    "distance": 10348
+}, {
+    "id": "YEM",
+    "country": "Yemen",
+    "distance": 14453
+}, {
+    "id": "SVK",
+    "country": "Slovakia",
+    "distance": 10219
+}, {
+    "id": "SVN",
+    "country": "Slovenia",
+    "distance": 10171
+}, {
+    "id": "ESP",
+    "country": "Spain",
+    "distance": 9505
+}, {
+    "id": "FRA",
+    "country": "France",
+    "distance": 9210
+}, {
+    "id": "IRL",
+    "country": "Ireland",
+    "distance": 8484
+}, {
+    "id": "LVA",
+    "country": "Latvia",
+    "distance": 10043
+}, {
+    "id": "LTU",
+    "country": "Lithuania",
+    "distance": 10259
+}, {
+    "id": "NLD",
+    "country": "Netherlands",
+    "distance": 9230
+}, {
+    "id": "PRT",
+    "country": "Portugal",
+    "distance": 8686
+}, {
+    "id": "GBR",
+    "country": "United Kingdom",
+    "distance": 8944
+}, {
+    "id": "ROU",
+    "country": "Romania",
+    "distance": 11021
+}, {
+    "id": "SWE",
+    "country": "Sweden",
+    "distance": 9600
+}, {
+    "id": "CHE",
+    "country": "Switzerland",
+    "distance": 9644
+}, {
+    "id": "ISL",
+    "country": "Iceland",
+    "distance": 7459
+}, {
+    "id": "URY",
+    "country": "Uruguay",
+    "distance": 7532
+}, {
+    "id": "GTM",
+    "country": "Guatemala",
+    "distance": 1059
+}, {
+    "id": "HND",
+    "country": "Honduras",
+    "distance": 1399
+}, {
+    "id": "CRI",
+    "country": "Costa Rica",
+    "distance": 1929
+}, {
+    "id": "DNK",
+    "country": "Denmark",
+    "distance": 9525
+}
+]

@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <div class="well">
+        <h1> P'polom </h1>
+        This project aims to propose a model for an
+        evolutive approach to get the best set of conditions to
+        import a product to México. Given the number of
+        variables that must be taken into account, the analysis
+        easily grows in complexity, so an evolutive algorithm
+        offers a reduction on complexity and a model that’s easy
+        to modify to optimize performance, or even to change
+        the way those optimal conditions are met
+    </div>
+
+
+    <div class="explain">
+        To test P'polom, select a product and send to see the proposed solution
+    </div>
+    <form class="form-inline" action="/results/" method="post">
+        <label for="prod"> Product </label>
+        <select class="form-control" name="product" id="prod">
+            {% for product, info in data.iteritems() %}
+                <option value="{{ product }}"> {{ info.product }} </option>
+            {% endfor %}
+        </select>
+        <input class="btn btn-default" type="submit" name="submit"
+               value="Send"/>
+    </form>
+
+
+
+{% endblock %}
