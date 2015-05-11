@@ -35,6 +35,9 @@ header{
     background-color: white;
 }
 
+#explanation{
+    float: right;
+}
 
 form{
     margin: 0 50px;
